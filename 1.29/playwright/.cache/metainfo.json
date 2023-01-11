@@ -1,0 +1,17 @@
+{
+  "version": "1.29.2",
+  "viteVersion": "3.2.5",
+  "registerSourceHash": "503cef9adf3fe70056bef31ce472320fe2b40e62",
+  "components": [],
+  "tests": {
+    "/Users/drew.loomer/Code/misc/playwright-import-repro/1.29/example.test.tsx": {
+      "timestamp": 1673452149808.298,
+      "components": []
+    }
+  },
+  "sources": {
+    "/Users/drew.loomer/Code/misc/playwright-import-repro/1.29/playwright/index.html": {
+      "timestamp": 1673452214964.552
+    }
+  }
+}
